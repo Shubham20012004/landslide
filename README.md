@@ -337,4 +337,5 @@ npm run build
 * **No physical ESP32 was connected** during development. Ingestion was verified with simulated payloads matching the firmware JSON, sent over HTTP.
 * **No real labelled experimental dataset exists.** Training and evaluation were verified only with the clearly labelled synthetic fixture. Its metrics are **not project findings**. Real model results must come from bench experiments.
 #   l a n d s l i d e  
+ #   l a n d s l i d e  
  
